@@ -1,0 +1,7 @@
+1. Cadastro de Livros
+
+•	Descrição: Crie uma aplicação console que permita ao usuário cadastrar, listar, e remover livros de uma biblioteca.
+•	Tópicos Envolvidos:
+    o	Criação de uma classe Livro com propriedades como Título, Autor, e Ano. - Ok
+    o	Implementação de métodos para adicionar, listar e remover livros. - Ok
+    o	Armazenamento dos livros em uma lista. - Ok

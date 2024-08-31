@@ -1,0 +1,14 @@
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Projetos\ExerciciosFixacao\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Projetos\ExerciciosFixacao\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Projetos\ExerciciosFixacao\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Projetos\ExerciciosFixacao\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\ExerciciosFixacao\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll

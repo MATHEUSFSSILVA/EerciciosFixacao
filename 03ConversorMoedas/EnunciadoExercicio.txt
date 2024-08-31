@@ -1,0 +1,6 @@
+4. Conversor de Moedas
+•	Descrição: Crie uma aplicação console que converta valores entre diferentes moedas (ex.: Real para Dólar, Euro para Real).
+•	Tópicos Envolvidos:
+    o	Criação de métodos para realizar as conversões com taxas fixas. - Ok
+    o	Entrada de valores e escolha da moeda pelo usuário. - Ok
+    o	Exibição do valor convertido. - Ok

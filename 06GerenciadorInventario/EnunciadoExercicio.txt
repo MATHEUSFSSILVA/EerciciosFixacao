@@ -1,0 +1,6 @@
+1. Gerenciador de Inventário
+•	Descrição: Desenvolva uma aplicação que permita ao usuário gerenciar o inventário de produtos de uma loja.
+•	Tópicos Envolvidos:
+    o	Criação de classes Produto com propriedades como Nome, Preço, e Quantidade.
+    o	Implementação de métodos para adicionar, atualizar, remover e listar produtos.
+    o	Persistência dos dados em um arquivo JSON.

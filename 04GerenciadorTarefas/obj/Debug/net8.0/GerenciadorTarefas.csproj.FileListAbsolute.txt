@@ -1,0 +1,14 @@
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.exe
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.deps.json
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.runtimeconfig.json
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.dll
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\bin\Debug\net8.0\GerenciadorTarefas.pdb
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfoInputs.cache
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.AssemblyInfo.cs
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.dll
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\refint\GerenciadorTarefas.dll
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.pdb
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\GerenciadorTarefas.genruntimeconfig.cache
+C:\Projetos\ExerciciosFixacao\GerenciadorTarefas\obj\Debug\net8.0\ref\GerenciadorTarefas.dll

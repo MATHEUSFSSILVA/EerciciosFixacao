@@ -1,0 +1,12 @@
+[
+  {
+    "Nome": "Nokia",
+    "Preco": 29.90,
+    "Quantidade": 10
+  },
+  {
+    "Nome": "Iphone",
+    "Preco": 34.90,
+    "Quantidade": 0
+  }
+]

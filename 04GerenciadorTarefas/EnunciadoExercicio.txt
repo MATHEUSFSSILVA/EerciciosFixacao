@@ -1,0 +1,6 @@
+3. Gerenciador de Tarefas
+•	Descrição: Crie uma aplicação que permita ao usuário adicionar, listar, e marcar tarefas como concluídas.
+•	Tópicos Envolvidos:
+    o	Criação de uma classe Tarefa com propriedades como Descrição e Status. - Ok
+    o	Implementação de métodos para gerenciar as tarefas (adicionar, listar, concluir). - Ok
+    o	Uso de uma lista para armazenar as tarefas. - Ok

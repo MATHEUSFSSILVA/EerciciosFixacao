@@ -1,0 +1,6 @@
+Sistema de Controle de Estoque
+•	Descrição: Crie uma aplicação console que permita ao usuário adicionar, remover, e consultar produtos em um estoque.
+•	Tópicos Envolvidos:
+    o	Criação de classes para representar produtos e categorias.
+    o	Implementação de métodos para gerenciar o estoque.
+    o	Validação de entrada do usuário e cálculo do valor total em estoque.

@@ -1,0 +1,6 @@
+3. Aplicação de Notas Fiscais
+•	Descrição: Crie uma aplicação que permita ao usuário cadastrar e calcular o valor total de notas fiscais.
+•	Tópicos Envolvidos:
+    o	Criação de classes NotaFiscal e Produto.
+    o	Implementação de métodos para adicionar produtos à nota fiscal e calcular o total.
+    o	Persistência dos dados em um arquivo JSON.

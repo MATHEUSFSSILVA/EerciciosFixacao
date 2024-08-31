@@ -1,0 +1,17 @@
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\07SistemaControleEstoque.exe
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\07SistemaControleEstoque.deps.json
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\07SistemaControleEstoque.runtimeconfig.json
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\07SistemaControleEstoque.dll
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\07SistemaControleEstoque.pdb
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.AssemblyInfoInputs.cache
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.AssemblyInfo.cs
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07Sistem.FED5800B.Up2Date
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.dll
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\refint\07SistemaControleEstoque.dll
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.pdb
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.genruntimeconfig.cache
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\ref\07SistemaControleEstoque.dll

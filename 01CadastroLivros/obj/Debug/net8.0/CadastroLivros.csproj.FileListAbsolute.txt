@@ -1,0 +1,17 @@
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.csproj.AssemblyReference.cache
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.AssemblyInfoInputs.cache
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.AssemblyInfo.cs
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\CadastroLivros.exe
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\CadastroLivros.deps.json
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\CadastroLivros.runtimeconfig.json
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\CadastroLivros.dll
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\CadastroLivros.pdb
+C:\Projetos\ExerciciosFixacao\CadastroLivros\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\Cadastro.2B85DFE3.Up2Date
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.dll
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\refint\CadastroLivros.dll
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.pdb
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\CadastroLivros.genruntimeconfig.cache
+C:\Projetos\ExerciciosFixacao\CadastroLivros\obj\Debug\net8.0\ref\CadastroLivros.dll

@@ -1,0 +1,6 @@
+5. Jogo de Adivinhação
+•	Descrição: Crie uma aplicação onde o computador escolhe um número aleatório, e o usuário deve adivinhar esse número.
+•	Tópicos Envolvidos:
+    o	Uso da classe Random para gerar um número aleatório.
+    o	Laço de repetição para permitir múltiplas tentativas.
+    o	Exibição de dicas ao usuário (maior ou menor).

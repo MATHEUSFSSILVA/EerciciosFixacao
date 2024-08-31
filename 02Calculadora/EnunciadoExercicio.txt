@@ -1,0 +1,6 @@
+2. Calculadora Simples
+•	Descrição: Crie uma aplicação console que funcione como uma calculadora simples, permitindo ao usuário somar, subtrair, multiplicar e dividir dois números.
+•	Tópicos Envolvidos:
+    o	Implementação de métodos para as operações aritméticas básicas.
+    o	Entrada e validação de dados do usuário.
+    o	Exibição do resultado da operação escolhida.

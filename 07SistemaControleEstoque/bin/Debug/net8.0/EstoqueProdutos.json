@@ -1,0 +1,37 @@
+[
+  {
+    "Produtos": [
+      {
+        "Nome": "Iphone",
+        "Quantidade": 30,
+        "Preco": 150.90
+      },
+      {
+        "Nome": "Nokia",
+        "Quantidade": 20,
+        "Preco": 100.0
+      },
+      {
+        "Nome": "Motorola",
+        "Quantidade": 10,
+        "Preco": 200.90
+      }
+    ],
+    "NomeCategoria": "Celulares"
+  },
+  {
+    "Produtos": [
+      {
+        "Nome": "NotBook Samsumg",
+        "Quantidade": 5,
+        "Preco": 200.0
+      },
+      {
+        "Nome": "Lenovo desktop",
+        "Quantidade": 10,
+        "Preco": 999.99
+      }
+    ],
+    "NomeCategoria": "Computadores"
+  }
+]
