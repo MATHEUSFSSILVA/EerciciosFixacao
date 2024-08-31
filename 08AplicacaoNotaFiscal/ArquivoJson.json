@@ -1,0 +1,22 @@
+[
+  {
+    "Produtos": [
+      {
+        "NomeProduto": "Garrafa térmica",
+        "CodigoProduto": 3512673,
+        "ValorUnitario": 0.12,
+        "Quantidade": 32
+      },
+      {
+        "NomeProduto": "Celular Nokia",
+        "CodigoProduto": 9234512,
+        "ValorUnitario": 15.90,
+        "Quantidade": 15
+      }
+    ],
+    "ValorTotalNota": 246.18,
+    "RazaoSocialCliente": "Drad Produtos Eletronicos",
+    "NumeroNota": 123456,
+    "DataNota": "2024-08-30T00:00:00"
+  }
+]
