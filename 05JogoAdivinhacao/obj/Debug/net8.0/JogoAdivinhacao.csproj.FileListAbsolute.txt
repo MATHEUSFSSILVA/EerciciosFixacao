@@ -21,6 +21,7 @@ C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfoInputs.cache
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfo.cs
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.sourcelink.json
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.dll
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\refint\JogoAdivinhacao.dll
 C:\Projetos\ExerciciosFixacao\05JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.pdb

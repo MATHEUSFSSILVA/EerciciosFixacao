@@ -37,35 +37,35 @@ Nível Básico
   o	Exibição de dicas ao usuário (maior ou menor).
 
 Nível Intermediário
-1. Gerenciador de Inventário
+6. Gerenciador de Inventário
 •	Descrição: Desenvolva uma aplicação que permita ao usuário gerenciar o inventário de produtos de uma loja.
 •	Tópicos Envolvidos:
   o	Criação de classes Produto com propriedades como Nome, Preço, e Quantidade.
   o	Implementação de métodos para adicionar, atualizar, remover e listar produtos.
   o	Persistência dos dados em um arquivo JSON.
 
-2. Sistema de Controle de Estoque
+7. Sistema de Controle de Estoque
 •	Descrição: Crie uma aplicação console que permita ao usuário adicionar, remover, e consultar produtos em um estoque.
 •	Tópicos Envolvidos:
   o	Criação de classes para representar produtos e categorias.
   o	Implementação de métodos para gerenciar o estoque.
   o	Validação de entrada do usuário e cálculo do valor total em estoque.
 
-3. Aplicação de Notas Fiscais
+8. Aplicação de Notas Fiscais
 •	Descrição: Crie uma aplicação que permita ao usuário cadastrar e calcular o valor total de notas fiscais.
 •	Tópicos Envolvidos:
   o	Criação de classes NotaFiscal e Produto.
   o	Implementação de métodos para adicionar produtos à nota fiscal e calcular o total.
   o	Persistência dos dados em um arquivo JSON.
 
-4. Consumo de API de Clima
+9. Consumo de API de Clima
 •	Descrição: Desenvolva uma aplicação que consuma uma API de clima para buscar a previsão do tempo de uma cidade e exibir as informações.
 •	Tópicos Envolvidos:
   o	Consumo da API usando HttpClient.
   o	Criação de classes para deserializar a resposta JSON.
   o	Exibição dos dados relevantes (temperatura, umidade, condições do tempo).
 
-5. Sistema de Reservas de Mesas
+10. Sistema de Reservas de Mesas
 •	Descrição: Crie uma aplicação que permita ao usuário reservar mesas em um restaurante.
 •	Tópicos Envolvidos:
   o	Criação de classes Reserva, Mesa, e Cliente.

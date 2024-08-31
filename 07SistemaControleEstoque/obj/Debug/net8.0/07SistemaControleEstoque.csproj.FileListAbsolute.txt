@@ -9,6 +9,7 @@ C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07Sistem
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.AssemblyInfoInputs.cache
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.AssemblyInfo.cs
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.csproj.CoreCompileInputs.cache
+C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.sourcelink.json
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07Sistem.FED5800B.Up2Date
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\07SistemaControleEstoque.dll
 C:\Projetos\ExerciciosFixacao\07SistemaControleEstoque\obj\Debug\net8.0\refint\07SistemaControleEstoque.dll
